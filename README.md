@@ -51,6 +51,6 @@ drop - You can drop item from your backpack
 Main rules are the same.
 
 ## LICENSE
-
+[MIT](https://choosealicense.com/licenses/mit/)
 
   
