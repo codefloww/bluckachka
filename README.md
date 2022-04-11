@@ -9,7 +9,7 @@
 
 ## Bluckachka:
 To play standart game you should clone this repo, open folder and run main.
-Then you should follow instructions in the terminal. To win this game you have to kill two enemies. If you will fight with enemy and loose this fight. You've losted. (Потрачено...)
+Then you should follow instructions in the terminal. To win this game you have to kill two enemies. If you will fight with enemy and loose this fight. You've losted.
 
 Commands which are available for you:
 
@@ -51,6 +51,6 @@ drop - You can drop item from your backpack
 Main rules are the same.
 
 ## LICENSE
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
 
   
